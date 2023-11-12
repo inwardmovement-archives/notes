@@ -40,4 +40,5 @@ function radixColors(name) {
 }
 ```
 
+\+ Shadows, highlights, and overlays colors?
 \+ purge unused variables?

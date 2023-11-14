@@ -1,7 +1,7 @@
 # Replacing Tailwind color palette with Radix Colors
 
 Notes:
-- Ignore black/white alpha colors (use Tailwind black/white with opacity modifier instead).
+- Ignore black/white alpha colors, use Tailwind black/white with opacity modifier instead.
 - Purge unused variables?
 
 ```

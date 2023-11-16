@@ -1,4 +1,4 @@
-# Replacing Tailwind color palette with Radix Colors
+# Replacing Tailwind colors with Radix Colors
 
 Notes:
 - Ignore black/white alpha colors, use Tailwind black/white with opacity modifier instead.

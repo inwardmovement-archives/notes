@@ -165,7 +165,7 @@ module.exports = {
 ## 4) Add `radixColors` function in `tailwind.config.ts`
 
 ```
-function radixColors(color) {
+function radixColors(color: string) {
   let scale = Array.from({ length: 12 }, (_, i) => {
     let id = i + 1;
     return [

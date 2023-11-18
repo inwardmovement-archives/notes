@@ -1,6 +1,6 @@
 # Replacing Tailwind colors with Radix Colors in Next.js
 
-Caveat: unused css variables cannot be purged
+Caveat: unused css variables cannot be purged. Instead use https://github.com/mrcaidev/tailwindcss-radix-colors (but no automatic dark mode support).
 
 ## 1) Install Radix Colors
 

@@ -1,6 +1,6 @@
 # Replacing Tailwind colors with Radix Colors in Next.js
 
-Caveat: PurgeCSS can't purge unused imported css variables. Workaround: script to write variables in global.css?
+Caveat: PurgeCSS can't purge unused imported css variables. Workaround: script to write variables in global.css? or copy source css files into app?
 
 ## 1) Install dependencies for custom PostCSS/PurgeCSS management
 

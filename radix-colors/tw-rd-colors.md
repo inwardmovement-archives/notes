@@ -169,8 +169,8 @@ function radixColors(color: string) {
   let scale = Array.from({ length: 12 }, (_, i) => {
     let id = i + 1;
     return [
-      [id, `var(--${color}${id})`],
-      [`a${id}`, `var(--${color}A${id})`],
+      [id, `var(--${color}-${id})`],
+      [`a${id}`, `var(--${color}-a${id})`],
     ];
   }).flat();
 
